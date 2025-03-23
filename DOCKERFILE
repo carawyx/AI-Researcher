@@ -1,0 +1,2 @@
+FROM tjbtech1/paperagent:latest
+COPY .env .env
